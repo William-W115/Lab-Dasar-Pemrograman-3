@@ -1,4 +1,4 @@
-program Tugas2;
+program Tugas2 ;
 var
 i, hasil: integer;
 begin
